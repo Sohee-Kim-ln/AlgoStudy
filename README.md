@@ -2,7 +2,7 @@
 
 from 2025.08.10
 
-[문제풀이 상황 노션]:https://potent-light-313.notion.site/2024-8ef158496c324f85921834d1b9517fb5?pvs=4
+[문제풀이 상황 노션 링크](https://potent-light-313.notion.site/2024-8ef158496c324f85921834d1b9517fb5?pvs=4 )
 
 
 
@@ -12,7 +12,7 @@ from 2025.08.10
 
 타입: 간략한 커밋내용 설명 6자리날짜
 
-ex) docs: update README 240709
+ex) docs: update README 250810
 
 
 
